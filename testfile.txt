@@ -3,3 +3,4 @@ another linend
 and yet another line
 another day
 fffile
+file1
