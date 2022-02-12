@@ -4,3 +4,4 @@ and yet another line
 another day
 fffile
 file1
+file2
